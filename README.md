@@ -4,10 +4,11 @@ It is a small 2-Way bookshelf speaker. It has a 20w tweeter and a 40w woofer. It
 
 A very rough circuit diagram:
 <img width="797" height="473" alt="Screenshot from 2026-05-07 22-14-28" src="https://github.com/user-attachments/assets/e15bd3db-bb59-4c50-aaf1-dc6645366584" />
+
 BOM:
 -2x 4ow woofers,
 -2x 20w tweeters,
 -2x 2-way cross over networks,
 -7mm MDF,
 -2x Speaker Connector Terminal,
-Onshape link:https://cad.onshape.com/documents/036cadceb8f17ac68b01a7db/w/67421dc64b2d18eea9c04765/e/97851da6ce2615d44412fd55?renderMode=0&uiState=6a080cb92c876739ef8fcf83
+Onshape link:https://shorturl.at/YF33R
