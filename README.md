@@ -11,4 +11,5 @@ BOM:
 -2x 2-way cross over networks,
 -7mm MDF,
 -2x Speaker Connector Terminal,
+
 Onshape link:https://shorturl.at/YF33R
