@@ -1,5 +1,5 @@
 # DIY-2-Way-Speaker-System
-It is a small 2-Way bookshelf speaker. It has a 20w tweeter and a 40w woofer. It is a relatively simple build.
+It is a small 2-Way bookshelf speaker. It has a 15w tweeter and a 40w woofer. It is a relatively simple build.It will be made with 7mm MDF board.
 <img width="704" height="499" alt="Screenshot from 2026-05-06 09-21-24" src="https://github.com/user-attachments/assets/0e57c2ae-2651-4b05-9970-cbac756fa020" />
 
 A very rough circuit diagram:
