@@ -10,3 +10,4 @@ BOM:
 -2x 2-way cross over networks,
 -7mm MDF,
 -2x Speaker Connector Terminal,
+Onshape link:https://cad.onshape.com/documents/036cadceb8f17ac68b01a7db/w/67421dc64b2d18eea9c04765/e/97851da6ce2615d44412fd55?renderMode=0&uiState=6a080cb92c876739ef8fcf83
