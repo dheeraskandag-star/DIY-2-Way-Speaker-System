@@ -18,6 +18,9 @@ I've always been interested in audio and electronics, so I decided to build a pa
 | 2-way Crossover | 2 | 3.20 |
 | 4mm MDF | 8 | 6.30 |
 
+# Final Look:
+<img width="1600" height="900" alt="WhatsApp Image 2026-06-30 at 10 29 47 PM" src="https://github.com/user-attachments/assets/d5cafc42-d093-4439-bc53-2180499529c5" />
+
 
 
 Onshape link:https://shorturl.at/YF33R
